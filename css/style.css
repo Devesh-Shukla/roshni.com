@@ -1,0 +1,43 @@
+body{
+	background: #0f0c29;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+h1{
+	font-size: 64px;
+	font-family: 'Satisfy', cursive;
+	color: white;
+	text-shadow: 
+	0 0 4px #a300a3,
+	0 0 8px #a300a3,
+	0 0 16px #a300a3,
+	0 0 32px #a300a3,
+	0 0 64px #a300a3,
+	0 0 128px #a300a3,
+	0 0 512px #a300a3;
+}
+p{
+	font-size: 34px;
+	border: 14px solid #ff00fb;
+	border-radius: 9px;
+	border-spacing: 50%;
+	font-family: 'Cinzel', serif;
+	color: white;
+	text-shadow: 
+	0 0 4px #0066ff,
+	0 0 8px #0066ff,	
+	0 0 16px #0066ff,
+	0 0 32px #0066ff,
+	0 0 64px #0066ff,
+	0 0 128px #0066ff,
+	0 0 512px #0066ff;		
+}
+a{
+	font-size: 34px;
+	color: #ff0000;
+	text-decoration: none;
+	font-family: 'Cinzel', serif;
+	font-weight: 700;
+}
